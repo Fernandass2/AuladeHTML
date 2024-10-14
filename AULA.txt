@@ -1,0 +1,11 @@
+    <meta name="keywords" content="html,css,javascript,htmlS">  " Palavra chave para um site "
+    <h1>Hello Wold</1> - Para formar um titulo14:53 09/10/2024
+    <hr> barra horinzontal, tipo uma régua em baixo do que foi digitado.
+    <h2> Segundo subtitulo </h2>
+    <p> tecla de paragrafo </p>
+    <b> Para deixar o texto em negrito </b>
+    <img src= "" alt=""> Para colocar uma image dentro do texto 
+    <title> Assim que colocr o mouse em cima, aparece uma caixinha em cima da imagem "titulo de imagem" 
+    <style> Para usar o css </style>
+    body{} seletor para usar as configurações do css 
+    <br> </br> significa quebra de linha
